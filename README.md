@@ -63,15 +63,10 @@ The predictive modeling phase involved several steps:
    - Models were evaluated using metrics such as **accuracy**, **precision**, **recall**, and **AUC**.  
 
 ### Feature Importance  
-XGBoost identified the following top predictors of throughput in minimum time:  
-1. Other South African Language  
-2. Physical Sciences  
-3. Life Orientation  
-4. English  
-5. Gender  
-6. Life Sciences  
-7. Years in Residence  
-8. Age at Enrolment  
+
+XGBoost identified the following top predictors of throughput in minimum time: 
+<img width="639" height="464" alt="image" src="https://github.com/user-attachments/assets/1f08a292-7158-408d-b462-e3c520f59bf6" />
+ 
 
 These results demonstrate that both academic preparation and demographic factors influence completion time.  
 
